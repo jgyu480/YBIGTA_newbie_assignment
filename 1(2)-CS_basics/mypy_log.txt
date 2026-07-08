@@ -1,0 +1,3 @@
+submission/4_5670.py:66: error: Incompatible types in assignment (expression has type "None", variable has type "int")  [assignment]
+submission/3_1629.py:11: error: Missing return statement  [empty-body]
+Found 2 errors in 2 files (checked 10 source files)
