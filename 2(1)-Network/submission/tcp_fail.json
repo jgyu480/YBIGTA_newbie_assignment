@@ -1,0 +1,22 @@
+{
+  "url": "http://google.com:81",
+  "host": "google.com",
+  "port": 81,
+  "path": "/",
+  "dns_ips": [
+    "142.250.21.138",
+    "142.250.21.139",
+    "142.250.21.113",
+    "142.250.21.100",
+    "142.250.21.102",
+    "142.250.21.101"
+  ],
+  "chosen_ip": "142.250.21.101",
+  "tcp_ms": null,
+  "local_addr": null,
+  "peer_addr": null,
+  "http_status": null,
+  "body_preview": "",
+  "stage": "tcp",
+  "error": "timed out"
+}
